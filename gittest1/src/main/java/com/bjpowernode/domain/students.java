@@ -8,4 +8,10 @@ public class students {
     private String name;
     private String address;
     private Integer age;
+
+    public static void main(String[] args) {
+
+        String  name = "zhangsan";
+        Integer id = 100;
+    }
 }
